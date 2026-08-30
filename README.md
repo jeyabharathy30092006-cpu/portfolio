@@ -45,3 +45,7 @@ A responsive frontend e-commerce website developed using web technologies.
 - **CSS3** – Styling and responsive design
 - **JavaScript** – Interactive features and functionality
 - **Git & GitHub** – Version control and project hosting
+
+## 🌐 Live Demo
+**View My Portfolio:**
+https://jeyabharathy30092006-cpu.github.io/portfolio/
