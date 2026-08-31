@@ -7,7 +7,9 @@ I am a third-year Computer Science and Engineering student with a passion for we
 I have knowledge of Python, JavaScript, SQL, HTML, and CSS. I am interested in learning new technologies, improving my skills, and building real-world projects.
 
 ## 🎓 Education
+
 **Bachelor of Engineering – Computer Science and Engineering**
+
 Currently pursuing 3rd year.
 
 ## 🛠️ Technical Skills
