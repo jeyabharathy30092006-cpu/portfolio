@@ -51,3 +51,7 @@ A responsive frontend e-commerce website developed using web technologies.
 ## 🌐 Live Demo
 **View My Portfolio:**
 https://jeyabharathy30092006-cpu.github.io/portfolio/
+
+## 📸 Screenshot
+
+![Portfolio Website Screenshot](./portfolio.jpg)
